@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Welcome to StrainHub!](README.md)
+* [Initial page](README.md)
 
